@@ -1,7 +1,7 @@
 Name: Chirag Khurana
 Entry No.: 2016CSB1037
 CSL603 Lab3
-
+Python
 ==============================How to run====================================
 Libraries Required:
 	1. numpy
@@ -14,7 +14,7 @@ Libraries Required:
 
 To train model:
 	$ python3 main.py
-	To change parameters, change them initialized at begin of main.py:
+	To change parameters, change them at the top of main.py:
 		# Dataset folder
 		DATASET_DIRECTORY = '../steering/'
 		# Training/validation split ratio
